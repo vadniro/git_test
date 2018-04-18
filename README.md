@@ -1,2 +1,2 @@
 # git_test
-just some testing
+This is project.
